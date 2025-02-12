@@ -4,7 +4,9 @@ Simple Program For Webcam
 # Requirements   
     
     pip install -r requirements.txt
-    ou
+
+ou
+
     pip install opencv-python Pillow numpy
 
 # Install 
