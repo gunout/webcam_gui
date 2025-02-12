@@ -9,4 +9,5 @@ Simple Program For Webcam
 
 # Install 
 
-    python3 webcam_gui.py
+    chmod +x webcam_gui.py
+    pyhton3 webcam_gui.py
